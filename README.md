@@ -12,7 +12,7 @@ To learn how to design and construct an app that implements Alarm Manqger.
 
 
 
-## The RoomWordsSample app does the following:
+## This app does the following:
 - Implements onCheckChanged listeners for toggle buttons
 
 - Sets up and use custom broadcast receivers
